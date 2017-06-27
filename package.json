@@ -1,0 +1,19 @@
+{
+  "name": "my-awesome-fc-generator",
+  "version": "1.0.0",
+  "description": "Generates a flashcard in 2 forms - basic and cloze deletion",
+  "main": "basicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinson-ridenour/flashcard-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinson-ridenour/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/vinson-ridenour/flashcard-generator#readme"
+}
